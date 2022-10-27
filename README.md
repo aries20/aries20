@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aries20
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Network Security
+- 👀 I’m interested in Software Development and Cyber Security
+- 🌱 I’m currently Pursuing Master's in Computer Science
 - 📫 yashurade20@gmail.com
 
 <!---
