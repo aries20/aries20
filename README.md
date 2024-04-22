@@ -9,7 +9,6 @@ I'm Yash Urade, a passionate cybersecurity enthusiast currently pursuing my mast
 - 💼 Actively seeking opportunities to apply my skills and knowledge in a professional setting.
 - 💬 Ask me about cybersecurity, threat detection, and incident response.
 - 📫 How to reach me: yashurade20@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving Capture The Flag (CTF) challenges in my free time!
 
 ## Skills and Expertise
