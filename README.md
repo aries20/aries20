@@ -28,8 +28,8 @@ I'm Yash Urade, a passionate cybersecurity enthusiast currently pursuing my mast
 
 Here are some cybersecurity projects I've worked on:
 
-- [Project Name](https://github.com/aries20/CybersecurityHomeLab.git): Cyber Security Homelab for simulating attack and defense in a safe environment.
-- [Project Name](https://github.com/aries20/FullStack.git): Fullstack website showing my ci/cd skills.
+- [Attack and Defence Lab](https://github.com/aries20/CybersecurityHomeLab.git): Cyber Security Homelab for simulating attack and defense in a safe environment.
+- [Full Stack website](https://github.com/aries20/FullStack.git): Fullstack website showing my ci/cd skills.
 
 
 
