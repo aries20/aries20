@@ -27,7 +27,8 @@ I'm Yash Urade, a passionate cybersecurity enthusiast currently pursuing my mast
 
 Here are some cybersecurity projects I've worked on:
 
-- [Attack and Defence Lab](https://github.com/aries20/CybersecurityHomeLab.git): Cyber Security Homelab for simulating attack and defense in a safe environment.
+- [Mitre ATT&CK Critical Techniques Detection with Splunk](https://github.com/yashurade/Mitre-ATTACK-Critical-Techniques-Splunk-Detection.git): This repository contains Splunk detection confirmation screenshots for critical techniques from the Mitre ATT&CK framework. The screenshots demonstrate successful detection of these techniques using Splunk.
+- [Full SocLab](https://github.com/yashurade/Splunk-Kali-AD-LAB.git): The Soclab Setup project provides a comprehensive lab environment designed for security operations and incident response (SOAR) training and testing.
 - [Full Stack website](https://github.com/aries20/FullStack.git): Fullstack website showing my ci/cd skills.
 
 
